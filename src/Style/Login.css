@@ -1,0 +1,74 @@
+/* #formy{
+    position: relative;
+    bottom: 100px;
+}
+
+#p{
+    position: relative;
+    bottom: 600px;
+    left: 220px;
+    font-size: medium;
+
+    
+}
+
+#h1{
+    position: relative;
+    bottom: 620px;
+    left: 230px;
+}
+#labe1{
+    position:relative;
+    bottom:580px;
+    left: 400px;
+}
+#labe2{
+    position:relative;
+    bottom:490px;
+    left: 417px;
+
+}
+#mail{
+    position: relative;
+    left: 360px;
+    bottom:540px;
+    width: 400px;
+
+}
+#pass{
+    position: relative;
+    left: 345px;
+    bottom: 450px;
+    width: 400px;
+}
+
+#logimg{
+    display:flex;
+    position: relative;
+    height: 850px;
+    width: 800px;
+
+    
+}
+#logo1{
+    display: flex;
+    position: relative;
+    bottom: 800px;
+}
+#btn{
+    height: 60px;
+    width: 350px;
+    border-radius: 8px;
+    background-color: rgb(44, 44, 245);
+    font-size: large;
+    color: white;
+    position: relative;
+    left: 350px;
+    bottom: 380px;
+
+}
+#p1{
+    position: relative;
+    left: 220px;
+    bottom: 300px;
+} */
